@@ -1,0 +1,7 @@
+public class Move 
+{
+  private String name;
+  private int damage;
+  
+  
+}
